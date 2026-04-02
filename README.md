@@ -38,7 +38,7 @@ I'm an **AI/ML Engineer** from 🇮🇳 **India**, currently pursuing my **B.Tec
 - 🌱 Learning **Advanced AI Systems, LLM Applications & System Design**
 - 💬 Ask me about **Machine Learning, AI Projects & Building Real-World Applications**
 - 🤝 Open to **freelance projects & AI/ML collaborations**
-- 💼 Available for **freelance AI/ML work**
+- 💼 Available for **remote contracts, freelance projects, AI/ML work and startup collaborations across all time zones.**
 - 📫 Contact me: kunalagarwal0264@gmail.com
 - ⚡ Fun fact: **I spend more time talking to LLMs than to real people — and honestly, they give better advice 🤖**
 
