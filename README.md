@@ -34,7 +34,7 @@
 
 I'm an **AI/ML Engineer** from 🇮🇳 **India**, currently pursuing my **B.Tech at Vellore Institute of Technology (VIT)**. Passionate about building intelligent solutions — from AI-powered platforms to LLM applications — that create **real-world impact**.
 
-- 🔭 Currently building **[TheodoraQ](https://github.com/Kunalagarwal26/TheodoraQ)** — An AI-Powered Quiz Platform
+- 🔭 Currently building **[TheodoraQ](https://github.com/Kunalagarwal26/TheodoraQ_Quiz_Platform)** — An AI-Powered Quiz Platform
 - 🌱 Learning **Advanced AI Systems, LLM Applications & System Design**
 - 💬 Ask me about **Machine Learning, AI Projects & Building Real-World Applications**
 - 🤝 Open to **freelance projects & AI/ML collaborations**
@@ -73,7 +73,7 @@ I'm an **AI/ML Engineer** from 🇮🇳 **India**, currently pursuing my **B.Tec
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### ☁️ Cloud
+### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 🧰 Tools
