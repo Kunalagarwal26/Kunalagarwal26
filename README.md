@@ -145,7 +145,7 @@ I'm an **AI/ML Engineer** from 🇮🇳 **India**, currently pursuing my **B.Tec
 <!-- ============== QUOTE ============== -->
 <div align="center">
  <br/><br/>
-  "AI won't replace you. A person using AI will.
+  AI won't replace you. A person using AI will.
 </div>
 
 
