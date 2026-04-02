@@ -39,7 +39,7 @@ I'm an **AI/ML Engineer** from 🇮🇳 **India**, currently pursuing my **B.Tec
 - 💬 Ask me about **Machine Learning, AI Projects & Building Real-World Applications**
 - 🤝 Open to **freelance projects & AI/ML collaborations**
 - 💼 Available for **freelance AI/ML work**
-- 📫 Contact me: kunalagarwal0264@gmail.com**
+- 📫 Contact me: kunalagarwal0264@gmail.com
 - ⚡ Fun fact: **I spend more time talking to LLMs than to real people — and honestly, they give better advice 🤖**
 
 <br clear="right"/>
@@ -145,7 +145,7 @@ I'm an **AI/ML Engineer** from 🇮🇳 **India**, currently pursuing my **B.Tec
 <!-- ============== QUOTE ============== -->
 <div align="center">
  <br/><br/>
-   **💡 _"AI won't replace you. A person using AI will."_**
+  "AI won't replace you. A person using AI will.
 </div>
 
 
