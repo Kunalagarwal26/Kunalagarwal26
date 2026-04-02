@@ -13,10 +13,11 @@
 <!-- ============== SOCIAL BADGES ============== -->
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/kunalagarwal26"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://medium.com/@kunalagarwal0264"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kunalagarwal26" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@kunalagarwal0264" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="mailto:kunalagarwal0264@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  ![Discord](https://img.shields.io/badge/Discord-kunalagarwal26-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+  <a href="https://www.hackerrank.com/profile/kunalagarwal0264" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>
+  <img src="https://img.shields.io/badge/Discord-kunalagarwal26-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 
   <br/>
 
@@ -141,15 +142,21 @@ I'm an **AI/ML Engineer** from 🇮🇳 **India**, currently pursuing my **B.Tec
 ---
 
 <!-- ============== CONNECT ============== -->
-## 🤝 Let's Connect
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/kunalagarwal26"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://medium.com/@kunalagarwal0264"><img src="https://img.shields.io/badge/Read_my_Blogs-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="mailto:kunalagarwal0264@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  💬 I'm always open to **AI/ML collaborations**, **freelance projects**, and **interesting conversations**!
 
-  <br/><br/>
+  <br/>
+
+  📩 **Drop me an email at** → [kunalagarwal0264@gmail.com](mailto:kunalagarwal0264@gmail.com)
+
+  💼 **Connect professionally** → [LinkedIn](https://www.linkedin.com/in/kunalagarwal26)
+
+  🧑‍💻 **Challenge me on** → [HackerRank](https://www.hackerrank.com/profile/kunalagarwal0264)
+
+  <br/>
 
   **💡 _"AI won't replace you. A person using AI will."_**
 
