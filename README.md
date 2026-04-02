@@ -39,6 +39,7 @@ I'm an **AI/ML Engineer** from 🇮🇳 **India**, currently pursuing my **B.Tec
 - 💬 Ask me about **Machine Learning, AI Projects & Building Real-World Applications**
 - 🤝 Open to **freelance projects & AI/ML collaborations**
 - 💼 Available for **freelance AI/ML work**
+- 📫 Contact me: kunalagarwal0264@gmail.com**
 - ⚡ Fun fact: **I spend more time talking to LLMs than to real people — and honestly, they give better advice 🤖**
 
 <br clear="right"/>
@@ -141,26 +142,12 @@ I'm an **AI/ML Engineer** from 🇮🇳 **India**, currently pursuing my **B.Tec
 
 ---
 
-<!-- ============== CONNECT ============== -->
-## 🤝 Let's Connect & Collaborate
-
+<!-- ============== QUOTE ============== -->
 <div align="center">
-
-  💬 I'm always open to **AI/ML collaborations**, **freelance projects**, and **interesting conversations**!
-
-  <br/>
-
-  📩 **Drop me an email at** → [kunalagarwal0264@gmail.com](mailto:kunalagarwal0264@gmail.com)
-
-  💼 **Connect professionally** → [LinkedIn](https://www.linkedin.com/in/kunalagarwal26)
-
-  🧑‍💻 **Challenge me on** → [HackerRank](https://www.hackerrank.com/profile/kunalagarwal0264)
-
-  <br/>
-
-  **💡 _"AI won't replace you. A person using AI will."_**
-
+ <br/><br/>
+   **💡 _"AI won't replace you. A person using AI will."_**
 </div>
+
 
 <!-- ============== FOOTER ============== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bd93f9,100:282a36&height=120&section=footer" width="100%"/>
